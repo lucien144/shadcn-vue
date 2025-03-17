@@ -22,7 +22,7 @@ npm install -D tailwindcss@3 autoprefixer
 ```
 
 ```bash
-npx tailwindcss init
+npx tailwindcss@3 init
 ```
 
 Add this import header in your main css file, `src/assets/index.css` in our case:
